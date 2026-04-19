@@ -2,6 +2,3 @@ fastapi
 uvicorn
 groq
 python-dotenv
-chromadb
-sentence-transformers
-pypdf
