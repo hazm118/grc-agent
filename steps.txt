@@ -1,0 +1,8 @@
+1. cd to GRC Agent folder
+2. venv\Scripts\activate
+3. uvicorn api:app --reload
+
+4. cd to grc-frontend folder  
+5. npm run dev
+
+6. Open http://localhost:5173
